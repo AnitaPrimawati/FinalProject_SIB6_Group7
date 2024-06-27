@@ -1,4 +1,4 @@
-# Final Project Data Sphere 7B
+# Final Project Sentiment Analysis Pipeline
 
 This project aims to build a data pipeline using Airflow, Docker, MongoDB, Sentiment Analysis, and PostgreSQL for data extraction, transformation, and loading processes.
 
