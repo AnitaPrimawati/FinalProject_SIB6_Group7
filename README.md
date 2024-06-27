@@ -2,6 +2,8 @@
 
 This project aims to build a data pipeline using Airflow, Docker, MongoDB, Sentiment Analysis, and PostgreSQL for data extraction, transformation, and loading processes.
 
+![data yg berhasil kepanggil](https://github.com/AnitaPrimawati/FinalProject_SIB6_Group7/assets/142095066/305602fc-4ad0-491d-8e3a-c553943929c6)
+
 ## Setup and Requirements
 
 ### Docker and Airflow Setup
